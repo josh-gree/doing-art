@@ -1,0 +1,1006 @@
+{
+  "master": "tidepress",
+  "px": 500,
+  "seeds": [
+    {
+      "index": 0,
+      "seed": "f23h3p",
+      "file": "000_f23h3p.png",
+      "lattice": "33²",
+      "sources": "solo",
+      "ratio": "5.79",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 1,
+      "seed": "t1d0zr",
+      "file": "001_t1d0zr.png",
+      "lattice": "56²",
+      "sources": "grid",
+      "ratio": "2.33",
+      "gate": "checker",
+      "ink": "sanguine"
+    },
+    {
+      "index": 2,
+      "seed": "gbikx6",
+      "file": "002_gbikx6.png",
+      "lattice": "31²",
+      "sources": "solo",
+      "ratio": "5.30",
+      "gate": "checker",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 3,
+      "seed": "62ojzy",
+      "file": "003_62ojzy.png",
+      "lattice": "57²",
+      "sources": "duet",
+      "ratio": "2.08",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 4,
+      "seed": "e0ynn2",
+      "file": "004_e0ynn2.png",
+      "lattice": "52²",
+      "sources": "duet",
+      "ratio": "2.58",
+      "gate": "none",
+      "ink": "sanguine"
+    },
+    {
+      "index": 5,
+      "seed": "e646k5",
+      "file": "005_e646k5.png",
+      "lattice": "63²",
+      "sources": "duet",
+      "ratio": "3.72",
+      "gate": "checker",
+      "ink": "sanguine"
+    },
+    {
+      "index": 6,
+      "seed": "132uli",
+      "file": "006_132uli.png",
+      "lattice": "51²",
+      "sources": "solo",
+      "ratio": "1.33",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 7,
+      "seed": "6a266v",
+      "file": "007_6a266v.png",
+      "lattice": "36²",
+      "sources": "plane",
+      "ratio": "3.51",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 8,
+      "seed": "oci9yb",
+      "file": "008_oci9yb.png",
+      "lattice": "128²",
+      "sources": "plane",
+      "ratio": "1.31",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 9,
+      "seed": "j3zx9a",
+      "file": "009_j3zx9a.png",
+      "lattice": "75²",
+      "sources": "duet",
+      "ratio": "3.90",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 10,
+      "seed": "j8m410",
+      "file": "010_j8m410.png",
+      "lattice": "68²",
+      "sources": "grid",
+      "ratio": "1.11",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 11,
+      "seed": "s81ts3",
+      "file": "011_s81ts3.png",
+      "lattice": "70²",
+      "sources": "plane",
+      "ratio": "4.45",
+      "gate": "annulus",
+      "ink": "sanguine"
+    },
+    {
+      "index": 12,
+      "seed": "o4zylo",
+      "file": "012_o4zylo.png",
+      "lattice": "46²",
+      "sources": "duet",
+      "ratio": "6.02",
+      "gate": "disc",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 13,
+      "seed": "ft19x5",
+      "file": "013_ft19x5.png",
+      "lattice": "111²",
+      "sources": "duet",
+      "ratio": "2.65",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 14,
+      "seed": "vh4d1m",
+      "file": "014_vh4d1m.png",
+      "lattice": "48²",
+      "sources": "duet",
+      "ratio": "3.23",
+      "gate": "none",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 15,
+      "seed": "21nqpj",
+      "file": "015_21nqpj.png",
+      "lattice": "118²",
+      "sources": "duet",
+      "ratio": "1.95",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 16,
+      "seed": "q9r4cp",
+      "file": "016_q9r4cp.png",
+      "lattice": "54²",
+      "sources": "duet",
+      "ratio": "4.43",
+      "gate": "none",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 17,
+      "seed": "vep7pa",
+      "file": "017_vep7pa.png",
+      "lattice": "45²",
+      "sources": "duet",
+      "ratio": "5.38",
+      "gate": "checker",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 18,
+      "seed": "g6xflu",
+      "file": "018_g6xflu.png",
+      "lattice": "119²",
+      "sources": "duet",
+      "ratio": "3.40",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 19,
+      "seed": "u8i8q5",
+      "file": "019_u8i8q5.png",
+      "lattice": "33²",
+      "sources": "grid",
+      "ratio": "4.14",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 20,
+      "seed": "xw2j3y",
+      "file": "020_xw2j3y.png",
+      "lattice": "46²",
+      "sources": "duet",
+      "ratio": "6.15",
+      "gate": "annulus",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 21,
+      "seed": "rati5n",
+      "file": "021_rati5n.png",
+      "lattice": "78²",
+      "sources": "grid",
+      "ratio": "4.66",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 22,
+      "seed": "1ovt5c",
+      "file": "022_1ovt5c.png",
+      "lattice": "63²",
+      "sources": "duet",
+      "ratio": "2.00",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 23,
+      "seed": "ds7pbf",
+      "file": "023_ds7pbf.png",
+      "lattice": "107²",
+      "sources": "duet",
+      "ratio": "5.14",
+      "gate": "annulus",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 24,
+      "seed": "h6a3z6",
+      "file": "024_h6a3z6.png",
+      "lattice": "45²",
+      "sources": "duet",
+      "ratio": "3.67",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 25,
+      "seed": "m1tvvg",
+      "file": "025_m1tvvg.png",
+      "lattice": "89²",
+      "sources": "grid",
+      "ratio": "1.32",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 26,
+      "seed": "2i4yda",
+      "file": "026_2i4yda.png",
+      "lattice": "45²",
+      "sources": "duet",
+      "ratio": "1.07",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 27,
+      "seed": "pzkl82",
+      "file": "027_pzkl82.png",
+      "lattice": "46²",
+      "sources": "duet",
+      "ratio": "0.96",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 28,
+      "seed": "pkfdt8",
+      "file": "028_pkfdt8.png",
+      "lattice": "56²",
+      "sources": "duet",
+      "ratio": "1.93",
+      "gate": "none",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 29,
+      "seed": "vib1wi",
+      "file": "029_vib1wi.png",
+      "lattice": "47²",
+      "sources": "duet",
+      "ratio": "2.47",
+      "gate": "annulus",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 30,
+      "seed": "d0wyb5",
+      "file": "030_d0wyb5.png",
+      "lattice": "34²",
+      "sources": "plane",
+      "ratio": "12.98",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 31,
+      "seed": "drfd23",
+      "file": "031_drfd23.png",
+      "lattice": "34²",
+      "sources": "grid",
+      "ratio": "4.20",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 32,
+      "seed": "1wy6mc",
+      "file": "032_1wy6mc.png",
+      "lattice": "54²",
+      "sources": "solo",
+      "ratio": "2.20",
+      "gate": "none",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 33,
+      "seed": "iasve7",
+      "file": "033_iasve7.png",
+      "lattice": "34²",
+      "sources": "plane",
+      "ratio": "1.62",
+      "gate": "disc",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 34,
+      "seed": "71t79e",
+      "file": "034_71t79e.png",
+      "lattice": "46²",
+      "sources": "grid",
+      "ratio": "11.76",
+      "gate": "annulus",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 35,
+      "seed": "01v6fx",
+      "file": "035_01v6fx.png",
+      "lattice": "67²",
+      "sources": "duet",
+      "ratio": "3.41",
+      "gate": "none",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 36,
+      "seed": "7ya11p",
+      "file": "036_7ya11p.png",
+      "lattice": "45²",
+      "sources": "duet",
+      "ratio": "5.36",
+      "gate": "annulus",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 37,
+      "seed": "m3iqna",
+      "file": "037_m3iqna.png",
+      "lattice": "63²",
+      "sources": "duet",
+      "ratio": "12.41",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 38,
+      "seed": "maw8hf",
+      "file": "038_maw8hf.png",
+      "lattice": "43²",
+      "sources": "duet",
+      "ratio": "8.07",
+      "gate": "none",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 39,
+      "seed": "pyxo6j",
+      "file": "039_pyxo6j.png",
+      "lattice": "49²",
+      "sources": "solo",
+      "ratio": "2.36",
+      "gate": "none",
+      "ink": "verdigris"
+    },
+    {
+      "index": 40,
+      "seed": "8rpnez",
+      "file": "040_8rpnez.png",
+      "lattice": "23²",
+      "sources": "grid",
+      "ratio": "1.36",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 41,
+      "seed": "bz6qz7",
+      "file": "041_bz6qz7.png",
+      "lattice": "18²",
+      "sources": "duet",
+      "ratio": "5.10",
+      "gate": "checker",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 42,
+      "seed": "j2foo3",
+      "file": "042_j2foo3.png",
+      "lattice": "17²",
+      "sources": "duet",
+      "ratio": "4.08",
+      "gate": "annulus",
+      "ink": "verdigris"
+    },
+    {
+      "index": 43,
+      "seed": "zu0rv3",
+      "file": "043_zu0rv3.png",
+      "lattice": "39²",
+      "sources": "solo",
+      "ratio": "1.37",
+      "gate": "annulus",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 44,
+      "seed": "0t63i5",
+      "file": "044_0t63i5.png",
+      "lattice": "32²",
+      "sources": "duet",
+      "ratio": "0.98",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 45,
+      "seed": "zfdslh",
+      "file": "045_zfdslh.png",
+      "lattice": "40²",
+      "sources": "grid",
+      "ratio": "7.77",
+      "gate": "annulus",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 46,
+      "seed": "g89c8q",
+      "file": "046_g89c8q.png",
+      "lattice": "21²",
+      "sources": "duet",
+      "ratio": "2.95",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 47,
+      "seed": "50tup5",
+      "file": "047_50tup5.png",
+      "lattice": "18²",
+      "sources": "duet",
+      "ratio": "6.10",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 48,
+      "seed": "8fn6vd",
+      "file": "048_8fn6vd.png",
+      "lattice": "76²",
+      "sources": "grid",
+      "ratio": "3.63",
+      "gate": "annulus",
+      "ink": "sanguine"
+    },
+    {
+      "index": 49,
+      "seed": "w2d26x",
+      "file": "049_w2d26x.png",
+      "lattice": "31²",
+      "sources": "duet",
+      "ratio": "2.38",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 50,
+      "seed": "yzvm08",
+      "file": "050_yzvm08.png",
+      "lattice": "19²",
+      "sources": "solo",
+      "ratio": "4.47",
+      "gate": "none",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 51,
+      "seed": "r4j27b",
+      "file": "051_r4j27b.png",
+      "lattice": "81²",
+      "sources": "solo",
+      "ratio": "3.66",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 52,
+      "seed": "ow5cw0",
+      "file": "052_ow5cw0.png",
+      "lattice": "24²",
+      "sources": "duet",
+      "ratio": "2.82",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 53,
+      "seed": "p8v8wh",
+      "file": "053_p8v8wh.png",
+      "lattice": "17²",
+      "sources": "grid",
+      "ratio": "5.92",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 54,
+      "seed": "7k24wg",
+      "file": "054_7k24wg.png",
+      "lattice": "42²",
+      "sources": "grid",
+      "ratio": "3.91",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 55,
+      "seed": "y9j9pg",
+      "file": "055_y9j9pg.png",
+      "lattice": "64²",
+      "sources": "plane",
+      "ratio": "1.47",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 56,
+      "seed": "moe1pf",
+      "file": "056_moe1pf.png",
+      "lattice": "121²",
+      "sources": "duet",
+      "ratio": "4.11",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 57,
+      "seed": "ztg21i",
+      "file": "057_ztg21i.png",
+      "lattice": "126²",
+      "sources": "duet",
+      "ratio": "2.60",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 58,
+      "seed": "0bseip",
+      "file": "058_0bseip.png",
+      "lattice": "44²",
+      "sources": "solo",
+      "ratio": "1.09",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 59,
+      "seed": "ih45tc",
+      "file": "059_ih45tc.png",
+      "lattice": "52²",
+      "sources": "grid",
+      "ratio": "2.33",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 60,
+      "seed": "tb50dy",
+      "file": "060_tb50dy.png",
+      "lattice": "84²",
+      "sources": "duet",
+      "ratio": "4.48",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 61,
+      "seed": "igau0u",
+      "file": "061_igau0u.png",
+      "lattice": "86²",
+      "sources": "duet",
+      "ratio": "5.80",
+      "gate": "annulus",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 62,
+      "seed": "xm2wy0",
+      "file": "062_xm2wy0.png",
+      "lattice": "84²",
+      "sources": "solo",
+      "ratio": "1.13",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 63,
+      "seed": "a1vkhw",
+      "file": "063_a1vkhw.png",
+      "lattice": "38²",
+      "sources": "grid",
+      "ratio": "10.83",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 64,
+      "seed": "u9wlbc",
+      "file": "064_u9wlbc.png",
+      "lattice": "43²",
+      "sources": "grid",
+      "ratio": "2.01",
+      "gate": "annulus",
+      "ink": "verdigris"
+    },
+    {
+      "index": 65,
+      "seed": "8k7bke",
+      "file": "065_8k7bke.png",
+      "lattice": "36²",
+      "sources": "duet",
+      "ratio": "2.46",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 66,
+      "seed": "9akvox",
+      "file": "066_9akvox.png",
+      "lattice": "64²",
+      "sources": "duet",
+      "ratio": "4.28",
+      "gate": "checker",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 67,
+      "seed": "k1wkls",
+      "file": "067_k1wkls.png",
+      "lattice": "86²",
+      "sources": "grid",
+      "ratio": "1.14",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 68,
+      "seed": "y2sk0w",
+      "file": "068_y2sk0w.png",
+      "lattice": "52²",
+      "sources": "grid",
+      "ratio": "1.30",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 69,
+      "seed": "dxrr2d",
+      "file": "069_dxrr2d.png",
+      "lattice": "72²",
+      "sources": "duet",
+      "ratio": "5.45",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 70,
+      "seed": "shsj4d",
+      "file": "070_shsj4d.png",
+      "lattice": "36²",
+      "sources": "grid",
+      "ratio": "5.67",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 71,
+      "seed": "7kzaq5",
+      "file": "071_7kzaq5.png",
+      "lattice": "20²",
+      "sources": "plane",
+      "ratio": "8.05",
+      "gate": "checker",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 72,
+      "seed": "drfa99",
+      "file": "072_drfa99.png",
+      "lattice": "62²",
+      "sources": "duet",
+      "ratio": "1.43",
+      "gate": "disc",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 73,
+      "seed": "88puic",
+      "file": "073_88puic.png",
+      "lattice": "78²",
+      "sources": "duet",
+      "ratio": "12.02",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 74,
+      "seed": "ar46rb",
+      "file": "074_ar46rb.png",
+      "lattice": "77²",
+      "sources": "duet",
+      "ratio": "2.77",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 75,
+      "seed": "cn4hqy",
+      "file": "075_cn4hqy.png",
+      "lattice": "34²",
+      "sources": "duet",
+      "ratio": "5.75",
+      "gate": "disc",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 76,
+      "seed": "zwlyqp",
+      "file": "076_zwlyqp.png",
+      "lattice": "55²",
+      "sources": "duet",
+      "ratio": "2.60",
+      "gate": "checker",
+      "ink": "sanguine"
+    },
+    {
+      "index": 77,
+      "seed": "hpvdfc",
+      "file": "077_hpvdfc.png",
+      "lattice": "18²",
+      "sources": "duet",
+      "ratio": "2.25",
+      "gate": "annulus",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 78,
+      "seed": "kz9oa3",
+      "file": "078_kz9oa3.png",
+      "lattice": "111²",
+      "sources": "plane",
+      "ratio": "6.04",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 79,
+      "seed": "o8i7ra",
+      "file": "079_o8i7ra.png",
+      "lattice": "45²",
+      "sources": "grid",
+      "ratio": "4.68",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 80,
+      "seed": "vt93x9",
+      "file": "080_vt93x9.png",
+      "lattice": "68²",
+      "sources": "duet",
+      "ratio": "6.07",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 81,
+      "seed": "v8a56x",
+      "file": "081_v8a56x.png",
+      "lattice": "91²",
+      "sources": "plane",
+      "ratio": "10.03",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 82,
+      "seed": "ecdfj0",
+      "file": "082_ecdfj0.png",
+      "lattice": "91²",
+      "sources": "duet",
+      "ratio": "5.25",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 83,
+      "seed": "n4wz5a",
+      "file": "083_n4wz5a.png",
+      "lattice": "39²",
+      "sources": "plane",
+      "ratio": "11.15",
+      "gate": "none",
+      "ink": "negative-cyan"
+    },
+    {
+      "index": 84,
+      "seed": "m2azcd",
+      "file": "084_m2azcd.png",
+      "lattice": "37²",
+      "sources": "duet",
+      "ratio": "5.97",
+      "gate": "none",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 85,
+      "seed": "zcu4cc",
+      "file": "085_zcu4cc.png",
+      "lattice": "30²",
+      "sources": "grid",
+      "ratio": "1.91",
+      "gate": "none",
+      "ink": "verdigris"
+    },
+    {
+      "index": 86,
+      "seed": "1n7e5e",
+      "file": "086_1n7e5e.png",
+      "lattice": "34²",
+      "sources": "grid",
+      "ratio": "2.68",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 87,
+      "seed": "vomhc8",
+      "file": "087_vomhc8.png",
+      "lattice": "43²",
+      "sources": "duet",
+      "ratio": "2.60",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 88,
+      "seed": "1jijp4",
+      "file": "088_1jijp4.png",
+      "lattice": "44²",
+      "sources": "grid",
+      "ratio": "0.99",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 89,
+      "seed": "zlj25i",
+      "file": "089_zlj25i.png",
+      "lattice": "46²",
+      "sources": "grid",
+      "ratio": "4.28",
+      "gate": "checker",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 90,
+      "seed": "7an73e",
+      "file": "090_7an73e.png",
+      "lattice": "52²",
+      "sources": "duet",
+      "ratio": "1.57",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 91,
+      "seed": "ls5uhw",
+      "file": "091_ls5uhw.png",
+      "lattice": "88²",
+      "sources": "duet",
+      "ratio": "2.52",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 92,
+      "seed": "9fzfdr",
+      "file": "092_9fzfdr.png",
+      "lattice": "55²",
+      "sources": "solo",
+      "ratio": "7.06",
+      "gate": "none",
+      "ink": "negative-bone"
+    },
+    {
+      "index": 93,
+      "seed": "93zab0",
+      "file": "093_93zab0.png",
+      "lattice": "96²",
+      "sources": "grid",
+      "ratio": "10.90",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 94,
+      "seed": "cb41xw",
+      "file": "094_cb41xw.png",
+      "lattice": "92²",
+      "sources": "duet",
+      "ratio": "12.39",
+      "gate": "annulus",
+      "ink": "sanguine"
+    },
+    {
+      "index": 95,
+      "seed": "svbivp",
+      "file": "095_svbivp.png",
+      "lattice": "62²",
+      "sources": "duet",
+      "ratio": "4.92",
+      "gate": "disc",
+      "ink": "verdigris"
+    },
+    {
+      "index": 96,
+      "seed": "mpgec2",
+      "file": "096_mpgec2.png",
+      "lattice": "45²",
+      "sources": "duet",
+      "ratio": "2.33",
+      "gate": "disc",
+      "ink": "sanguine"
+    },
+    {
+      "index": 97,
+      "seed": "y82fdh",
+      "file": "097_y82fdh.png",
+      "lattice": "83²",
+      "sources": "duet",
+      "ratio": "1.08",
+      "gate": "annulus",
+      "ink": "prussian-rust"
+    },
+    {
+      "index": 98,
+      "seed": "3h2rry",
+      "file": "098_3h2rry.png",
+      "lattice": "37²",
+      "sources": "grid",
+      "ratio": "1.01",
+      "gate": "disc",
+      "ink": "charcoal-umber"
+    },
+    {
+      "index": 99,
+      "seed": "5j6bnh",
+      "file": "099_5j6bnh.png",
+      "lattice": "130²",
+      "sources": "duet",
+      "ratio": "7.03",
+      "gate": "disc",
+      "ink": "prussian-rust"
+    }
+  ]
+}

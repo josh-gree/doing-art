@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tidepress Plate — seeded</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.13/lib/p5.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        background: #14161a;
+        color: #cfd3d8;
+        font:
+          13px/1.5 ui-monospace,
+          SFMono-Regular,
+          Menlo,
+          monospace;
+      }
+
+      #sketch {
+        display: grid;
+        place-items: center;
+        padding: 14px 16px 4px;
+      }
+
+      #sketch canvas {
+        width: min(calc(100vmin - 76px), 100%) !important;
+        height: auto !important;
+      }
+
+      #hud {
+        padding: 8px 16px 16px;
+        text-align: center;
+        color: #8d949c;
+        letter-spacing: 0.02em;
+      }
+
+      #keys {
+        padding: 0 16px 18px;
+        text-align: center;
+        color: #565c63;
+        font-size: 11px;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="sketch"></main>
+    <div id="hud"></div>
+    <div id="keys">?seed=anything &nbsp;·&nbsp; r reroll &nbsp;·&nbsp; s save</div>
+    <script src="rng.js"></script>
+    <script src="params.js"></script>
+    <script src="engine.js"></script>
+  </body>
+</html>

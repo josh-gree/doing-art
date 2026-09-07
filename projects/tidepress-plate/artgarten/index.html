@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>artgarten sketch</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.13/lib/p5.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        background: #f6f8fa;
+      }
+
+      #sketch {
+        display: grid;
+        place-items: center;
+        min-height: 100vh;
+        padding: 16px;
+      }
+
+      #sketch canvas {
+        width: calc(100vmin - 32px) !important;
+        height: auto !important;
+      }
+
+      .no-p5 {
+        max-width: 34rem;
+        font:
+          14px/1.6 system-ui,
+          sans-serif;
+        color: #57606a;
+      }
+
+      .no-p5 code {
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="sketch"></main>
+    <script src="core.js"></script>
+    <script src="sketch.js"></script>
+    <script>
+      window.addEventListener("load", function () {
+        if (typeof p5 !== "undefined") return;
+        document.getElementById("sketch").innerHTML =
+          '<div class="no-p5"><p><strong>p5.js could not be loaded.</strong> The sketch is ' +
+          "fine — the library it needs never arrived, so there is nothing to draw with.</p>" +
+          "<p>You are probably offline or behind something that blocks " +
+          "<code>cdn.jsdelivr.net</code>. To fix it for good: download " +
+          "<code>p5.min.js</code> (version 1.11.13), save it next to this file, and point the " +
+          "<code>&lt;script&gt;</code> tag at the top of <code>index.html</code> at " +
+          '<code>"p5.min.js"</code> instead. Then the whole project works offline.</p></div>';
+      });
+    </script>
+  </body>
+</html>

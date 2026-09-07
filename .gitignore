@@ -1,0 +1,8 @@
+node_modules/
+p5.min.js
+.render-cache/
+
+# Every image in this repo is generated. Nothing rendered is committed —
+# `make` redraws it all into out/. See README.md.
+out/
+*.png
