@@ -48,10 +48,22 @@ seeds slug count="100" px="500":
       --out {{out}}/{{slug}}/seeds \
       --sheet --cols 5 --rows 10 --sheet-px 300
 
-# One seed on its own, at full size.
-seed slug id px="0":
+# One seed on its own, at full size. `random` draws an unseen one.
+seed slug id="random" px="0":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    id={{id}}
+    if [ "$id" = "random" ]; then
+      # The same 6-char base36 shape the batch sampler draws, so a seed found
+      # this way can be pasted straight back in — or into the URL bar.
+      id=$(node -e 'process.stdout.write(Math.floor(Math.random()*2176782336).toString(36).padStart(6,"0").slice(0,6))')
+      echo "seed: $id"
+    fi
     node tools/sample.mjs --project projects/{{slug}}/generative \
-      --seeds {{id}} --px {{px}} --out {{out}}/{{slug}}/single
+      --seeds "$id" --px {{px}} --out {{out}}/{{slug}}/single
+    echo
+    echo "  again:   just seed {{slug}} $id"
+    echo "  browser: projects/{{slug}}/generative/index.html?seed=$id"
 
 # Rebuild contact sheets from frames already on disk — no re-rendering.
 resheet slug px="300" cols="5" rows="10":

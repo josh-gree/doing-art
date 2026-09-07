@@ -22,13 +22,23 @@ gitignored.
 just render lunar-census    # the original artgarten sketch, once
 just study  lunar-census    # the variation study's contact sheets
 just seeds  lunar-census    # the 100-seed batch from its recipes.json
-just seed   lunar-census jicj4p   # one seed, full size
+just seed   lunar-census random   # one unseen seed, full size
+just seed   lunar-census jicj4p   # or a named one
 just open   lunar-census    # play with the engine in a browser
 ```
 
 The batches are derived from a master seed recorded in each piece's
 `recipes.json`, not from `Math.random`, so `just seeds` brings back the same
 100 pieces the write-up discusses.
+
+`just seed <slug> random` is the other way round — it draws a seed nobody has
+seen, prints it, and tells you how to get it back:
+
+```
+seed: baiiuh
+  again:   just seed lunar-census baiiuh
+  browser: projects/lunar-census/generative/index.html?seed=baiiuh
+```
 
 ## The pieces
 
